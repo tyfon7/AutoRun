@@ -20,7 +20,7 @@ namespace AutoRun
             configEntries.Add(AutoRunKeyBind = config.Bind(
                 GeneralSection,
                 "Auto Run",
-                new KeyboardShortcut(KeyCode.M),
+                new KeyboardShortcut(KeyCode.W, [KeyCode.LeftControl]),
                 new ConfigDescription(
                     "Keybind to auto run",
                     null,
