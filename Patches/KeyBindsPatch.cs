@@ -1,6 +1,6 @@
-﻿using Aki.Reflection.Patching;
-using EFT.InputSystem;
+﻿using EFT.InputSystem;
 using HarmonyLib;
+using SPT.Reflection.Patching;
 using System.Linq;
 using System.Reflection;
 
