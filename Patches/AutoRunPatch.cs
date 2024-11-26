@@ -4,7 +4,7 @@ using SPT.Reflection.Patching;
 using System.Reflection;
 using UnityEngine;
 
-using KeyHandler = GClass1913;
+using KeyHandler = GClass2131;
 
 namespace AutoRun
 {
