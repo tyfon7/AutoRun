@@ -1,8 +1,8 @@
-﻿using EFT.InputSystem;
+﻿using System.Linq;
+using System.Reflection;
+using EFT.InputSystem;
 using HarmonyLib;
 using SPT.Reflection.Patching;
-using System.Linq;
-using System.Reflection;
 
 namespace AutoRun
 {

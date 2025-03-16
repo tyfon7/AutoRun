@@ -1,10 +1,10 @@
-﻿using EFT.InputSystem;
+﻿using System.Reflection;
+using EFT.InputSystem;
 using HarmonyLib;
 using SPT.Reflection.Patching;
-using System.Reflection;
 using UnityEngine;
 
-using KeyHandler = GClass2131;
+using KeyHandler = GClass2174;
 
 namespace AutoRun
 {
